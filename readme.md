@@ -14,16 +14,10 @@ A fully responsive **Netflix-style website clone** built with **HTML, CSS**, and
 - 🔗 External video support (Google Drive, etc.)
 - 🧩 Easy to customize for your own content
 
-## 📸 Preview
-
-![Netflix Clone Screenshot](screenshot.png)
-
 ## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
 - Font Awesome Icons
 - Optional JavaScript (for toggling features)
-
-## 🧾 File Structure
 

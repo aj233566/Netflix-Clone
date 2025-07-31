@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://moviefox.netlify.app/sitemap.xml
